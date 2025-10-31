@@ -49,21 +49,41 @@ Este documento prueba con EVIDENCIA REAL que cada día fue completado correctame
 
 ---
 
-### **DÍA 2 ([Fecha]) - Python Basics + Primer Proyecto Vendible** ⏳
+### **DÍA 2 (Oct 30, 2025) - Python Basics + Primer Proyecto Vendible** ✅
 
-**Chat Claude:** [PENDIENTE]
+**Chat Claude:** [https://claude.ai/share/8ae61e84-07c7-4cce-9de5-3d591871769e]
 
-**Tareas planificadas:**
-- [ ] CSV Data Cleaner (proyecto vendible $15-25)
-- [ ] Python file I/O práctica
-- [ ] Git workflow: branch, commit, push
-- [ ] README profesional proyecto
+**Tareas completadas:**
+- ✅ CSV Data Cleaner (proyecto vendible $15-25)
+- ✅ Python variables, tipos, f-strings
+- ✅ Control flow (if/elif/else, for, while)
+- ✅ Functions (def, return, docstrings)
+- ✅ Try/except manejo errores
+- ✅ Git workflow: add, commit, push
+- ✅ README profesional con ejemplos
 
-**Evidencia GitHub:** [PENDIENTE]
+**Evidencia GitHub:**
+- Commit: `860cba3` - "feat: CSV Data Cleaner - Dia 2 proyecto vendible"
+- Carpeta: `/csv-cleaner`
+- Archivos: csv_cleaner.py, README.md, test_data.csv, clean_data.csv
+- URL: https://github.com/Umbracia/ai-portfolio/tree/main/csv-cleaner
 
-**Horas trabajadas:** [PENDIENTE]
+**Horas trabajadas:** ~2.5 hrs
 
-**Status:** ⏳ PENDIENTE
+**Obstáculos resueltos:**
+- Fila CSV "inválida" no eliminada → Mejoré validación email independientemente
+- CMD Windows no maneja mensajes commit multi-línea → Usé mensaje corto
+- Debugging independiente: identifiqué problema, implementé solución
+
+**Skills desbloqueados:**
+- ✅ Debugging autónomo (identifiqué bug validación)
+- ✅ CSV manipulation (csv.DictReader, csv.DictWriter)
+- ✅ Set para detectar duplicados
+- ✅ Try/except error handling
+- ✅ Docstrings profesionales
+- ✅ Git workflow completo
+
+**Status:** ✅ COMPLETADO
 
 ---
 
@@ -136,17 +156,17 @@ Este documento prueba con EVIDENCIA REAL que cada día fue completado correctame
 
 ### SEMANA 1 (Días 1-7)
 
-| Día | Completado | Horas | Proyecto | GitHub Commit |
-|-----|------------|-------|----------|---------------|
-| 1   | ✅         | 2     | Setup    | 23614bc       |
-| 2   | ⏳         | -     | -        | -             |
-| 3   | ⏳         | -     | -        | -             |
-| 4   | ⏳         | -     | -        | -             |
-| 5   | ⏳         | -     | -        | -             |
-| 6   | ⏳         | -     | -        | -             |
-| 7   | ⏳         | -     | -        | -             |
+| Día | Completado   | Horas  | Proyecto      | GitHub Commit |
+|-----|--------------|--------|---------------|---------------|
+| 1   | ✅           | 2      | Setup        | 23614bc       |
+| 2   | ✅           | 2.5    | CSV Cleaner  | 860cba3       |
+| 3   | ⏳           | -      | -        | -             |
+| 4   | ⏳           | -      | -        | -             |
+| 5   | ⏳           | -      | -        | -             |
+| 6   | ⏳           | -      | -        | -             |
+| 7   | ⏳           | -      | -        | -             |
 
-**Total Semana 1:** 2/14-16 hrs completadas
+**Total Semana 1:** 4.5/14-16 hrs completadas
 
 ---
 
@@ -231,11 +251,11 @@ Este documento prueba con EVIDENCIA REAL que cada día fue completado correctame
 
 **Actualizar cada Domingo:**
 
-- **Días completados:** 1/30
-- **Horas totales:** 2/85-100 hrs
-- **Proyectos creados:** 1/10-15
-- **Commits GitHub:** 1/40-60
-- **Status general:** 3.3% completado
+- **Días completados:** 2/30
+- **Horas totales:** 4.5/85-100 hrs
+- **Proyectos creados:** 2/10-15
+- **Commits GitHub:** 2/40-60
+- **Status general:** 6.7% completado
 
 ---
 
